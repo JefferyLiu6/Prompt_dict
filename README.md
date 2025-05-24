@@ -1,5 +1,4 @@
-# Prompt_dictionary
-this repo include different Prompt_dictionary
+
 
 
 # Act as a curious student
